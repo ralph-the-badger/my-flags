@@ -109,3 +109,9 @@ li {
   font-size: 3rem;
   color: #7e0000;
 }
+
+.no-countries {
+  margin: 0 auto;
+  width: 50%;
+  font-size: 2rem;
+}
