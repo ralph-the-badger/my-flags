@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/my-flags/static/css/main.9a2ca0af.css",
+    "main.css": "/my-flags/static/css/main.5296eda2.css",
     "main.js": "/my-flags/static/js/main.753b09cc.js",
     "static/media/earth-11048_1920.jpg": "/my-flags/static/media/earth-11048_1920.b4e2f493914a0fa4efda.jpg",
     "index.html": "/my-flags/index.html",
-    "main.9a2ca0af.css.map": "/my-flags/static/css/main.9a2ca0af.css.map",
+    "main.5296eda2.css.map": "/my-flags/static/css/main.5296eda2.css.map",
     "main.753b09cc.js.map": "/my-flags/static/js/main.753b09cc.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a2ca0af.css",
+    "static/css/main.5296eda2.css",
     "static/js/main.753b09cc.js"
   ]
 }
