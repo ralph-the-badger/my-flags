@@ -86,7 +86,7 @@ li {
 }
 
 .country img {
-  height: 220px;
+  width: 100%;
   border: 1px solid #000;
 }
 
